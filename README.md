@@ -2,7 +2,7 @@
 > 
 > 此字体不是普通显示字体，不包括基本区汉字，仅作为后备字体使用。
 > 该项目目前处于测试阶段，所以能够支持的字数不多，并有一部分非 G 字符未修改。
-> 
+  
 # PlanKai / 计划楷
 
 An open-source Unified Ideograph (Extension) font derived from Fontworks' Klee One.一款开源扩展汉字字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -42,4 +42,4 @@ An open-source Unified Ideograph (Extension) font derived from Fontworks' Klee O
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体（见[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供扩展区汉字假想 G 源字形参考。（见[遍黑体 Github 项目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools) 提供各地区标准字形参考。  
-[lxgw](https://github.com/lxgw)、[But Ko](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)提供相关字型。
+– [lxgw](https://github.com/lxgw)、[But Ko](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)提供相关字型。
