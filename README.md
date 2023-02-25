@@ -42,4 +42,4 @@ An open-source Unified Ideograph (Extension) font derived from Fontworks' Klee O
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体（见[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供扩展区汉字假想 G 源字形参考。（见[遍黑体 Github 项目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools) 提供各地区标准字形参考。
-- [lxgw](https://github.com/lxgw)、[But Ko](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)提供相关字型。
+- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)提供相关字型。
