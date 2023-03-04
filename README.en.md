@@ -1,10 +1,12 @@
+[Chinese / 中文](README.md)
+
 > **Notes**
 > 
 > This font isn't used for normal characters. It includes Unified ideograph characters (Extension) only and is just for fallback only.
 > This repository is currently in the testing stage, so there aren't many characters to support. And some glyphs of characters haven't been modified yet.
   
-# Plan Kai
-An open-source extended Unified Ideograph font derived from Fontworks' Klee One.
+# Plan Kai / 计划楷
+An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
 
 ## Introduction
 
