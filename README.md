@@ -18,10 +18,15 @@ An open-source font for Unified Ideographic Extension derived from Fontworks' Kl
 
 ## Coverage / 收录字符范围（计划）
 
-中日韩统一表意文字基本区补充、扩展 A 区（包括补充）  
-中日韩统一表意文字扩展 B 区  
-中日韩统一表意文字扩展 C 区、扩展 D 区  
-中日韩统一表意文字扩展 E 区、扩展 F 区  
+- [ ] 中日韩统一表意文字基本区补充、扩展 A 区  
+- [ ] 中日韩统一表意文字扩展 B 区、扩展 C 区、扩展 D 区  
+ * 由于扩展 B 区字符数目较大，暂定仅收录思源字体原有字、[「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符、提交源包含 V0 ～ V2 的字喃（Chữ Nôm），**并不支持完整的扩展 B 区。**  
+- [ ] 中日韩统一表意文字扩展 E 区、扩展 F 区  
+
+## Adjustment / 字形调整原则
+
+* 对提交源不包含对应标准的字，原则上按照各部件之间的地区字形差异进行调整，尽可能接近各地标准字形。  
+* 对字喃等提交源仅包含 V 源的字，以宽松标准进行调整、增补，不完全遵循 V 源标准。 
 
 ## Authorization / 授权信息
 
