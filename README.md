@@ -4,7 +4,7 @@
 > 
 > 此字体不是普通显示字体，不包括基本区汉字，仅作为后备字体使用。
 > 该项目目前处于测试阶段，所以能够支持的字数不多，并有一部分非 G 字符未修改。  
-> 如发现需要更改字形的字，在[issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反馈，不要另开议题。
+> 字形调整需求请在[Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反馈，字形增补需求请在[Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2) 中反馈，不要另开议题。
   
 # PlanKai / 计划楷
 
