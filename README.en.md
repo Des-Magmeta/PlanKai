@@ -2,10 +2,10 @@
 
 > **Notes**
 > 
-> This font isn't used for normal characters. It includes Unified ideograph characters (Extension) only and is just for fallback only.
-> This repository is currently in the testing stage, so there aren't many characters to support. And some glyphs of characters haven't been modified yet.
-> For glyph addition request, please come up in [Issue #2](https://github.com/Des-Magmeta/PlanKai/issue/2). Don’t create another issue.
-  
+> This font isn't used for normal characters. It includes Unified ideograph characters (Extension) only and is just for fallback only.  
+> This repository is currently in the testing stage, so there aren't many characters to support. And some glyphs of characters haven't been modified yet.  
+> You can leave a comment for glyph addition request(s) in [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2). And for glyph adjustment(s) in [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1). **Don’t create a new issue.**
+
 # Plan Kai / 计划楷
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
 
