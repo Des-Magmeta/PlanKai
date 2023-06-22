@@ -6,7 +6,7 @@
 > This repository is currently in the testing stage, so there aren't many characters to support. And some glyphs of characters haven't been modified yet.  
 > You can leave a comment for glyph addition request(s) in [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2). And for glyph adjustment(s) in [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1). **Don’t create a new issue.**
 
-# Plan Kai / 计划楷
+# Plan Kai / 计划楷 / 計劃楷
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
 
 ## Introduction
@@ -23,6 +23,9 @@ Plan Kai is a repository based on Klee One and takes the Chinese Mainland glyphs
 - [ ] CJK Unified ideographic extension B, C, D
 - [ ] CJK Unified ideographic extension E & F
 
+## Adjustments and Descriptions
+Besides (imagination) G standard, (imagination) J standard has been supported Since version 0.01. T and H standard may be added in the future.
+
 ## Authorization
 
 Plan Kai is derived from Klee One, which is licensed under the SIL Open Font License 1.1. [Klee](https://github.com/fontworks-fonts/Klee) is the trademark of FONTWORKS.
@@ -36,7 +39,7 @@ Plan Kai is derived from Klee One, which is licensed under the SIL Open Font Lic
 ### Limit
 
 - When making a derived font, the font name cannot use the “reserved name” of the original font.
-- The reserved name “PlanKai” and “计划楷” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
+- The reserved name “PlanKai”, “計劃楷”, “プラン楷書” and “计划楷” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
   
 - According to the provisions of Article 1 in the license and terms of [SIL Open Font License 1.1](https://scripts.sil.org/OFL), **Selling this font by itself is banned.**
 - This font can't be distributed in a license other than the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
