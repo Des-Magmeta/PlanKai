@@ -1,4 +1,4 @@
-Copyright 2023 Des-Magmeta (https://github.com/Des-Magmeta/PlanKai)
+﻿Copyright 2023 DesMagmeta (https://github.com/Des-Magmeta/PlanKai)
 Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
