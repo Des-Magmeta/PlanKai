@@ -5,7 +5,9 @@
 > 此字体不是普通显示字体，不包括基本区汉字，仅作为后备字体使用。  
 > 该项目目前处于测试阶段，所以能够支持的字数不多，并有一部分不符合在地标准的字符未及时修改。  
 > 字形调整和修正字形错误需求请在 [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反馈，字形增补需求请在 [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2) 中反馈，**不要另开议题。**
-  
+
+[![开源授权](https://img.shields.io/github/license/lxgw/LxgwWenKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
+ [![最新版](https://img.shields.io/github/release/lxgw/LxgwWenKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
 # PlanKai / 计划楷
 
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.一款开源扩展汉字字体，基于 FONTWORKS 出品字体 Klee One 衍生。
