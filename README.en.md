@@ -8,8 +8,11 @@
 
 [简体中文](README.md)
 
-# Plan Kai / 计划楷 / 計劃楷
+# Plan Kai / 计划楷
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
+
+[![License](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
+ [![Latest Version](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
 
 </div>
 
