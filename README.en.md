@@ -58,7 +58,7 @@ Plan Kai is derived from Klee One, which is licensed under the SIL Open Font Lic
 ### Limit
 
 - When making a derived font, the font name cannot use the “reserved name” of the original font.
-- The reserved name “PlanKai”, “計劃楷”, “プラン楷書” and “计划楷” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
+- The reserved name “<span lang="zh-cn">计划楷</span>”, “<span lang="zh-tw">計劃楷</span>”, “<span lang="ja-jp">プラン楷書</span>” and “PlanKai” shall not be used for the second modified work. Without modifying the font source code, the recompiled font can continue to use its reserved name.
   
 - According to the provisions of Article 1 in the license and terms of [SIL Open Font License 1.1](https://scripts.sil.org/OFL), **Selling this font by itself is banned.**
 - This font can't be distributed in a license other than the [SIL Open Font License 1.1](https://scripts.sil.org/OFL).
