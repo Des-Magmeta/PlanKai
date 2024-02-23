@@ -6,7 +6,7 @@
 > 字形调整和修正字形错误需求请在 [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反馈，字形增补需求请在 [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2) 中反馈，**不要另开议题。**
 
 <div align="center">
-[English](README.en.md)
+<a href="https://github.com/Des-Magmeta/PlanKai/README.en.md">English</a>
 
 # PlanKai / 计划楷
 
