@@ -22,20 +22,14 @@ An open-source font for Unified Ideographic Extension derived from Fontworks' Kl
 计划楷（Plan Kai）是基于 Klee One 进行字符扩展及补充的项目。该项目由本人在 2022 年 12 月份所开启，最终目标是尽可能补全 Unicode 已收录的所有汉字，并制作出一部分原本没有楷体风格的楷体字。
 
 ## Coverage / 收录字符范围（计划）
-### 长期计划
-- [ ] 中日韩统一表意文字基本区补充、扩展 A 区  
-- [ ] 中日韩统一表意文字扩展 B 区、扩展 C 区、扩展 D 区
- * 由于扩展 B 区字符数目较大，**距离支持完整的扩展 B 区仍需要耗费很长时间。**  
-- [ ] 中日韩统一表意文字扩展 E 区、扩展 F 区  
-
-### 短期计划
-- [ ] 思源字体收录字符  
-- [ ] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai)收录字符（仅限扩 B 到扩 F）  
+- [ ] Adobe-Japan1-6 收录字符  
+- [ ] Adobe-CNS1-7收录字符  
+- [ ] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai)收录字符  
 - [ ] V0 ~ V2 字喃（Chữ Nôm）
 
 ## Adjustment & Descriptions / 字形调整原则与相关说明
 
-从 v0.01 版本开始，除支持假想 G 标外，开始支持假想 J 标，后期根据实际使用情况增加对假想 T/H 标的支持。  
+从 v0.01 版本开始，除支持假想 G 标外，开始支持假想 J 标，由于字符数量庞大，目前没有对假想 T/H 标的支持。  
 ### Simplified Chinese / 简体（SC）
 - 尽可能采用中国大陆标准笔形。对提交源不包含 G 源的字符，原则上按照各部件之间的地区字形差异进行调整，尽可能接近假想中国大陆标准字形。
  
