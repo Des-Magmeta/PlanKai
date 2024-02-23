@@ -7,12 +7,11 @@
 
 <div align="center">
 
-<span lang="zh-tw">
+ <span lang="zh-tw">
 
 [繁體中文](README.tc.md)
-</span>
+ </span>
 | [English](README.en.md)
-
 
 # PlanKai / 计划楷  
 
