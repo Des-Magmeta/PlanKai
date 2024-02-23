@@ -41,7 +41,9 @@
 ### Simplified Chinese / 簡體（SC）
 - 盡可能採用中國大陸標準筆形，對提交源不包含 G 源的字符，原則上按照各部件之間的地區字形差異進行調整，盡可能接近假想中國大陸標準字形。
 ### Japanese Version / 日本標準（JP）
-- 盡可能採用日本標準字形，具體字形參照[「字雲 / Jigmo」](https://kamichikoichi.github.io/jigmo/)。通常情況下，對表外字的處理遵循日文舊字體筆形；  
+- 盡可能採用日本標準字形，具體字形參照
+  <span lang="ja-jp">[「字雲 / Jigmo」](https://kamichikoichi.github.io/jigmo/)</span>
+  。通常情況下，對表外字的處理遵循日文舊字體筆形；  
 - 若提交的 J 源字符中部件按照新字体標準，则遵循相應筆形；  
 - 為保持風格一致性，對製作的任何字形在此版中的部件採用日本標準筆形；  
 - 為與標準性相兼容，對包含中國大陸簡體字部件（如`饣`、`钅`、`讠`、`贝`、`车`、`长`等）的字符略微調整接近中國大陸新字形的筆形，相應部件的傳統印刷特徵（如下折的`纟`、斷筆的`㇜㇙`、直點的`宀亠`等）也将將選擇性保留。
@@ -65,7 +67,11 @@
 <span lang="zh-cn">「计划楷」</span>
 <span lang="zh-tw">「計劃楷」</span>
 <span lang="ja-jp">「プラン楷書」</span>
-「PlanKai」，基於本字型二次衍生的專案，名稱不可出現保留名稱「計畫楷」「計畫楷」「プラン楷書」或「PlanKai」； 而在沒有對字體原始程式碼進行修改的情况下，重新編譯出來的字型，可以繼續使用此字型的保留名稱。
+「PlanKai」，基於本字型二次衍生的專案，名稱不可出現保留名稱
+<span lang="zh-cn">「计划楷」</span>
+<span lang="zh-tw">「計劃楷」</span>
+<span lang="ja-jp">「プラン楷書」</span>
+或「PlanKai」； 而在沒有對字體原始程式碼進行修改的情况下，重新編譯出來的字型，可以繼續使用此字型的保留名稱。
 - 根據 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 許可與條款第一條的規定，**禁止單獨出售字型檔案（OTF/TTF檔案）的行為。**
 - 此字型不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授權許可下發行。
 
