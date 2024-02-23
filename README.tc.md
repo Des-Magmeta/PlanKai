@@ -10,12 +10,16 @@
 <div align="center">
 
 <span lang="zh-cn">
+
  [简体中文](README.md)
 </span>
 | [English](README.en.md)
 
+<div lang="zh-tw">
+
 # PlanKai / 計劃楷
 
+</div>
 [![開源授權](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
  [![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
 
