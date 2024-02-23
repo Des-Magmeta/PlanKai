@@ -12,7 +12,6 @@
 </span>
  |
 <span lang="zh-tw">
-
 [繁體中文](README.tc.md)
 <span>
 
