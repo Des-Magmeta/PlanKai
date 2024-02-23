@@ -11,6 +11,7 @@
 
 [繁體中文](README.tc.md)
 </span>
+
  | [English](README.en.md)
 
 # PlanKai / 计划楷
