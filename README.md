@@ -16,7 +16,8 @@
 
 </div>
 
-An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.一款开源扩展汉字字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.  
+一款开源扩展汉字字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 ![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-1.jpg)  
 
 ## Introduction / 项目简介
