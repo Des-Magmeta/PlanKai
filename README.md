@@ -23,10 +23,10 @@ An open-source font for Unified Ideographic Extension derived from Fontworks' Kl
 
 ## Coverage / 收录字符范围（计划）
 - [ ] Adobe-Japan1-6 收录字符  
-- [ ] Adobe-CNS1-7收录字符  
-- [ ] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai)收录字符  
-- [ ] V0 ~ V2 字喃（Chữ Nôm）
-
+- [ ] Adobe-CNS1-7 收录字符  
+- [ ] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
+- [ ] V0 ~ V2 字喃（Chữ Nôm） 
+- [ ] 中日韩兼容汉字及补充
 ## Adjustment & Descriptions / 字形调整原则与相关说明
 
 从 v0.01 版本开始，除支持假想 G 标外，开始支持假想 J 标，由于字符数量庞大，目前没有对假想 T/H 标的支持。  
