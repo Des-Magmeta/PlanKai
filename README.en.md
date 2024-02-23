@@ -6,7 +6,15 @@
 
 <div align="center">
 
+<span lang="zh-cn">
+
 [简体中文](README.md)
+</span>
+ |
+<span lang="zh-tw">
+
+[繁體中文](README.tc.md)
+<span>
 
 # Plan Kai
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
