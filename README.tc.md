@@ -9,7 +9,10 @@
 
 <div align="center">
 
-[English](README.en.md)
+<span lang="zh-cn">
+[简体中文](README.md)
+</span>
+ | [English](README.en.md)
 
 # PlanKai / 計劃楷
 
