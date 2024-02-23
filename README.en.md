@@ -16,7 +16,12 @@
 [繁體中文](README.tc.md)
 <span>
 
+<span lang="en-us">
+
 # Plan Kai
+
+</span>
+
 An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
 
 [![License](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
