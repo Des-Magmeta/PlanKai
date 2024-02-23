@@ -29,10 +29,10 @@ In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japane
 In 2021, the font [LXGW WenKai](https://github.com/lxgw/LxgwWenKai) was made by [lxgw](https://github.com/lxgw), which was modified from Klee One, with some characters added. It has become a success. Other font designers also made fonts derived from Klee One, such as [Iansui](https://github.com/ButTaiwan/iansui), [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai), and so on. With the efforts of font designers, a series of fonts derived from Klee One support many enough characters, especially some characters that aren't supported by Source Han Sans.  
 However, there are also a large number of CJK Unified ideographic extensions that can't be displayed directly. These characters either falls back to the Songti, or is displayed as a font that doesn't conform to local standards when they're displayed, and more are displayed as “tofu”.  
 Plan Kai(Chinese: <span lang="zh-cn">
-计划楷/計劃楷</span>
-; Japanese: 
-<span lang="ja-jp">プラン楷書</span>
-) is a repository based on Klee One and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. This repository was initiated around December 2022. The eventual goal is to complete all the Chinese characters included in Unicode as much as possible, and produce a part of the regular script without the original style of Kaiti(楷体/楷體).  
+计划楷/計劃楷</span>; Japanese: 
+<span lang="ja-jp">プラン楷書</span>) is a repository based on Klee One and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. This repository was initiated around December 2022. The eventual goal is to complete all the Chinese characters included in Unicode as much as possible, and produce a part of the regular script without the original style of Kaiti(<span lang="zh-cn">楷体</span>
+/
+<span lang="zh-tw">楷體</span>).  
 
 ## Coverage (Planning) 
 
