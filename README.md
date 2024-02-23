@@ -73,7 +73,7 @@
 <span lang="zh-tw">「計劃楷」</span>
 <span lang="ja-jp">「プラン楷書」</span>
 或「PlanKai」；而在没有对字体源代码进行修改的情况下，重新编译出来的字体，可以继续使用本字体的保留名称。
-- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF文件)的行为。**
+- 根据 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 许可与条件中第一条的规定， **禁止单独出售字体文件(OTF/TTF 文件)的行为。**
 - 该字体不可在 [SIL Open Font License 1.1](https://scripts.sil.org/OFL) 以外的授权许可下发行。
 
 ## Acknowledgement / 鸣谢
