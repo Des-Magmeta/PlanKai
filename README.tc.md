@@ -1,3 +1,4 @@
+<div lang="zh-tw">
 
 > [!IMPORTANT]  
 > **注意事項**
@@ -70,3 +71,5 @@
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供擴充區漢字假定 G 源字形參考。（见[遍黑體 Github 項目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
 - [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools) 提供各地區標準字形參考。
 - [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)提供相關字型。
+
+</div>
