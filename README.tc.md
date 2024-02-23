@@ -10,6 +10,7 @@
 <div align="center">
 
 <span lang="zh-cn">
+
  [简体中文](README.md)
 </span>
 
