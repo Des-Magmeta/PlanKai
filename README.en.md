@@ -21,10 +21,11 @@ Plan Kai is a repository based on Klee One and takes the Chinese Mainland glyphs
 - [ ] Adobe-Japan1-6  
 - [ ] Adobe-CNS1-7  
 - [ ] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
-- [ ] CJK Compatibility ideographs & supplement  
+- [ ] CJK compatibility ideographs & supplement  
 
 ## Adjustments and Descriptions
-Besides (imagination) G standard, (imagination) J standard has been supported Since version 0.01, whose specific glyphs will refer to [Jigmo](https://kamichikoichi.github.io/jigmo/). T and H standard may be added in the future.
+
+Besides (imagination) G standard, (imagination) J standard has been supported Since version 0.01, whose specific glyphs will refer to [Jigmo](https://kamichikoichi.github.io/jigmo/). Glyphs with T and H standard aren't going to be added due to too much characters.
 
 ## Authorization
 
