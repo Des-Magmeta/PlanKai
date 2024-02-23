@@ -46,9 +46,9 @@
 ## Adjustment & Descriptions / 字形調整原則與相關說明
 
 從 v0.01 版本開始，除支援假想 G 標外，開始支援假想 J 標，由于字符數量龐大，目前沒有對假想 T/H 標的支援計劃。  
-### Simplified Chinese / 簡體（SC）
+### 簡體（SC）
 - 盡可能採用中國大陸標準筆形，對提交源不包含 G 源的字符，原則上按照各部件之間的地區字形差異進行調整，盡可能接近假想中國大陸標準字形。
-### Japanese Version / 日本標準（JP）
+### 日本標準（JP）
 - 盡可能採用日本標準字形，具體字形參照
   <span lang="ja-jp">[「字雲 / Jigmo」](https://kamichikoichi.github.io/jigmo/)</span>
 。通常情況下，對表外字的處理遵循日文舊字體筆形；  
@@ -92,7 +92,7 @@
   </span>
 等）也將選擇性保留。
 
-### Additional description / 補充說明
+### 補充說明
 * 在所有版本中，對字喃等提交源僅包含 V 源的字，以寬鬆標準進行調整、增補，不完全遵循 V 源標準。 
 
 ## Authorization / 授權信息  
