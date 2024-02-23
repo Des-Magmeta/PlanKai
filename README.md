@@ -44,7 +44,7 @@
  
 ### Japanese Version / 日标（JP）
 - 尽可能采用日本标准字形，具体字形参照
-[「字雲 / Jigmo」](https://kamichikoichi.github.io/jigmo/)
+  <span lang="ja-jp">[「字雲 / Jigmo」](https://kamichikoichi.github.io/jigmo/)</span>
 。通常情况下，对表外字的处理遵循日文旧字体笔形；  
 - 若提交的 J 源字符中部件按照新字体标准，则跟从对应写法；  
 - 为保持风格一致性，对制作的任何字符在此版中的部件采用日本标准笔形；  
