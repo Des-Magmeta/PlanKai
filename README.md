@@ -40,6 +40,8 @@
 - [ ] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韩兼容汉字及补充
+> 以上内容中的「字符」覆盖范围仅限扩展 A 区至 F 区、基本区补充，不包含基本区汉字。  
+
 ## Adjustment & Descriptions / 字形调整原则与相关说明
 
 从 v0.01 版本开始，除支持假想 G 标外，开始支持假想 J 标，由于字符数量庞大，目前没有对假想 T/H 标的支持。  
