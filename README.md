@@ -21,7 +21,6 @@
 
 [![开源授权](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
  [![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
-
 </div>
 
 计划楷是基于 FONTWORKS 的开源字体 Klee One，并以各地字形为标准的对中日韩统一表意文字扩展区进行自行补充的项目。  
