@@ -32,7 +32,7 @@
 
 ## Introduction / 項目簡介
 
-2020 年 12 月，日本著名字型廠商 FONTWORKS 在 GitHub 上釋出了 [7 款開源日文字型](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符數最多，兼有仿宋和楷體的特点，具有優雅的外觀及較高的可讀性，非常適合內文排印。许多字型設計師／爱好者也製作了各個衍生版本，如[霞鶩文楷](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) 等。在這些人的努力下，一系列基於 Klee One 改作的字形支援的字符數已足夠多，并且能夠支援一些容易顯示為豆腐塊的字符。 
+2020 年 12 月，日本著名字型廠商 FONTWORKS 在 GitHub 上釋出了 [7 款開源日文字型](https://github.com/fontworks-fonts)，其中 [Klee One](https://github.com/fontworks-fonts/Klee) 字符數最多，兼有仿宋和楷體的特点，具有優雅的外觀及較高的可讀性，非常適合內文排印。许多字型設計師／爱好者也製作了各個衍生版本，如[「霞鶩文楷」](https://github.com/lxgw/LxgwWenkai)、[「芫荽」](https://github.com/ButTaiwan/iansui)、[「芫茜雅楷」](https://github.com/ItMarki/jyunsaikaai) 等。在這些人的努力下，一系列基於 Klee One 改作的字形支援的字符數已足夠多，并且能夠支援一些容易顯示為豆腐塊的字符。 
 然而，還有大量位於擴充區的漢字無法被直接顯示，顯示的文本或是回退到宋體，或是顯示為不符合在地標準字形，更多的則顯示為「豆腐塊」。  
 計劃楷（Plan Kai）是基於 Klee One 进行字符擴展及補充的項目。該項目由本人在 2022 年 12 月所開啟，最終目標是盡可能補全 Unicode 已收錄的所有漢字，並制作出一部分原本沒有楷體風格的楷體字。
 
