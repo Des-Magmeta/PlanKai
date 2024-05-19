@@ -38,9 +38,9 @@ Plan Kai(Chinese: <span lang="zh-cn">
 
 ## Coverage (Planning) 
 
-- [ ] Adobe-Japan1-6  
+- [x] Adobe-Japan1-7  
 - [ ] Adobe-CNS1-7  
-- [ ] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
+- [x] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
 - [ ] CJK compatibility ideographs & supplement  
 
 ## Adjustments and Descriptions
