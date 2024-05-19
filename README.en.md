@@ -45,7 +45,8 @@ Plan Kai(Chinese: <span lang="zh-cn">
 
 ## Adjustments and Descriptions
 
-Besides (imagination) G standard, (imagination) J standard has been supported Since version 0.01, whose specific glyphs will refer to [Jigmo](https://kamichikoichi.github.io/jigmo/). Glyphs with T and H standard aren't going to be added due to too much characters.
+Besides (imagination) G standard, (imagination) J standard has been supported since version 0.010, whose specific glyphs will refer to [Jigmo](https://kamichikoichi.github.io/jigmo/).  
+Besides, Kangxi radicals, CJK Strokes and CJK Compatibility characters (including supplement) has been added since version 0.020.
 
 ## Authorization
 
