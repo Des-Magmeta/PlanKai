@@ -40,6 +40,7 @@
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韩兼容汉字及补充
 > 以上内容中各字表的「收录字符」在此项目中仅选取扩展 A 区（部分）、扩展 B 区至 I 区、基本区补充，不包含基本区汉字，目前扩展 A 区字形未全部填满。  
+>
 > 自 1.330 版本起，「霞鹜文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)关闭，因此本项目目前视作补齐目标范围内「霞鹜文楷」收录字符。若「霞鹜文楷」后续版本新增字符，本项目将相应跟进。
 
 ## Adjustment & Descriptions / 字形调整原则与相关说明
@@ -88,4 +89,4 @@
 - [FONTWORKS 株式会社](http://fontworks.co.jp) 提供原版开源字体（见[开发者 GitHub 主页](https://github.com/fontworks-fonts/)）
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供扩展区汉字假想 G 源字形参考。（见[遍黑体 Github 项目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools) 提供各地区标准字形参考。
-- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)提供相关字型。
+- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相关字型。
