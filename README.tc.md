@@ -1,6 +1,4 @@
 <div lang="zh-tw">
-
-
 >[!IMPORTANT]  
 > **注意事項**
 > 
@@ -9,7 +7,6 @@
 > 字形調整和修正字形錯誤需求請在 [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反饋，字形增補需求請在 [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2) 中反饋，**不要另外新建 Issue 串。**
 
 <div align="center">
-
 <span lang="zh-cn">
 
  [简体中文](README.md)
