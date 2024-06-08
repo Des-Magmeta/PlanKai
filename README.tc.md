@@ -48,7 +48,7 @@
 
 ## Adjustment & Descriptions / 字形調整原則與相關說明
 
-自 v0.01 版本起，除支援假想 G 標外，開始支援假想 J 標，由于字符數量龐大、筆形複雜，製作要求較高等原因，目前沒有對假想 T/H 標的支援計劃。自 v0.016 版本起，該項目開始支援擴充 G 區至 I 區的字符。自 v0.020 版本起，該項目開始支援康熙部首、中日韓筆劃、中日韓相容漢字及補充。  
+自 v0.010 版本起，除支援假想 G 標外，開始支援假想 J 標，由于字符數量龐大、筆形複雜，製作要求較高等原因，目前沒有對假想 T/H 標的支援計劃。自 v0.016 版本起，該項目開始支援擴充 G 區至 I 區的字符。自 v0.020 版本起，該項目開始支援康熙部首、中日韓筆劃、中日韓相容漢字及補充。  
 
 ### 簡體（SC）
 - 盡可能採用中國大陸標準筆形，對提交源不包含 G 源的字符，原則上按照各部件之間的地區字形差異進行調整，盡可能接近假想中國大陸標準字形。
@@ -128,7 +128,7 @@
 
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 釋出原版开源字型（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供擴充區漢字假定 G 源字形參考。（见[遍黑體 Github 項目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
-- [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools) 提供各地區標準字形參考。
+- [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools)提供各地區標準字形參考。
 - [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相關字型。
 
 </div>
