@@ -42,7 +42,8 @@
 - [x] [「霞鶩文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韓相容漢字及補充
-> 以上內容中各字表的「收錄字元」在此專案中僅選取擴充 A 區（部分）、擴充 B 區至 I 區、基本區補充，不包含基本區漢字，目前擴充 A 區字形未全部填滿。  
+> 以上內容中各字表的「收錄字元」在此專案中僅選取擴充 A 區（部分）、擴充 B 區至 I 區、基本區補充，不包含基本區漢字，目前擴充 A 區字形未全部填滿。 
+> 
 > 自 1.330 版本起，「霞鶩文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)關閉，因此本專案目前視作補齊目標範圍內「霞鶩文楷」收錄字元。若「霞鶩文楷」後續版本新增字元，本專案將相應跟進。
 
 ## Adjustment & Descriptions / 字形調整原則與相關說明
@@ -128,6 +129,6 @@
 - [FONTWORKS 株式會社](http://fontworks.co.jp) 釋出原版开源字型（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供擴充區漢字假定 G 源字形參考。（见[遍黑體 Github 項目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
 - [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools) 提供各地區標準字形參考。
-- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)提供相關字型。
+- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相關字型。
 
 </div>
