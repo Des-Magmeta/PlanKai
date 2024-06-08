@@ -1,12 +1,12 @@
 
 >[!IMPORTANT]  
-<div lang="zh-tw">
+> <div lang="zh-tw">
 > **注意事項**
 > 
 > 此字型不是普通顯示字型，不包括統合漢字，僅作為回退字型使用。  
 > 該項目目前處於測試階段，所以能夠支持的字數不多，並有一部分不符合在地標準的字符，並未及時修改。  
 > 字形調整和修正字形錯誤需求請在 [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1) 中反饋，字形增補需求請在 [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2) 中反饋，**不要另外新建 Issue 串。**
-</div>
+> </div>
 
 <div align="center">
 <span lang="zh-cn">
