@@ -41,7 +41,8 @@ Plan Kai(Chinese: <span lang="zh-cn">
 - [x] Adobe-Japan1-7  
 - [ ] Adobe-CNS1-7  
 - [x] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
-- [ ] CJK compatibility ideographs & supplement  
+- [ ] Chữ Nôm from V0, V1 & V2  
+- [ ] CJK compatibility ideographs (including supplement)  
 
 ## Adjustments and Descriptions
 
@@ -71,4 +72,4 @@ Plan Kai is derived from Klee One, which is licensed under the SIL Open Font Lic
 - Original font developed by [FONTWORKS](http://fontworks.co.jp).
 - [Plangothic Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) initiated by  [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project).
 - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
-- Related fonts developed by [lxgw](https://github.com/lxgw),  [ButTaiwan](https://github.com/ButTaiwan), [ItMarki](https://github.com/ItMarki), and [GuiWonder](https://github.com/GuiWonder/MoonStarsKai)
+- Related fonts developed by [lxgw](https://github.com/lxgw),  [ButTaiwan](https://github.com/ButTaiwan), [ItMarki](https://github.com/ItMarki),  [GuiWonder](https://github.com/GuiWonder/MoonStarsKai), and [Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti)
