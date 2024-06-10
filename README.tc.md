@@ -39,9 +39,9 @@
 計劃楷（Plan Kai）是基於 Klee One 进行字符擴展及補充的項目。該項目由本人在 2022 年 12 月所開啟，最終目標是盡可能補全 Unicode 已收錄的所有漢字，並制作出一部分原本沒有楷體風格的楷體字。
 
 ## Coverage / 收錄字符範圍（計劃）
-- [x] Adobe-Japan1-7 收录字符  
-- [ ] Adobe-CNS1-7 收录字符  
-- [x] [「霞鶩文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
+- [x] Adobe-Japan1-7 收錄字元  
+- [ ] Adobe-CNS1-7 收錄字元  
+- [x] [「霞鶩文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收錄字元  
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韓相容漢字及補充
 > 以上內容中各字表的「收錄字元」在此專案中僅選取擴充 A 區（部分）、擴充 B 區至 I 區、基本區補充，不包含基本區漢字，目前擴充 A 區字形未全部填滿。 
