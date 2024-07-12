@@ -22,7 +22,7 @@
 
 </div>
 
-[![開源授權](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
+[![開源授權](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/blob/main/OFL.txt) 
  [![最新版](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
 
 </div>
@@ -128,9 +128,14 @@
 
 ## Acknowledgement / 鳴謝
 
-- [FONTWORKS 株式會社](http://fontworks.co.jp) 釋出原版开源字型（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）
-- [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供擴充區漢字假定 G 源字形參考。（见[遍黑體 Github 項目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）
-- [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools)提供各地區標準字形參考。
-- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相關字型。
+- [FONTWORKS 株式會社](http://fontworks.co.jp) 釋出原版开源字型（見[開發者 GitHub 主頁](https://github.com/fontworks-fonts/)）；  
+- [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供擴充區漢字假定 G 源字形參考（见[遍黑體 Github 項目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）；
+- [白易](https://github.com/yi-bai)開發的網站[字統网](https://zi.tools)提供各地區標準字形參考；  
+- [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相關字型；  
+- [HackerSam](https://github.com/HACKERSam2011)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 協力完善字型。
+
+## Stargazers over time 
+  
+ [![Stargazers over time](https://starchart.cc/Des-Magmeta/PlanKai.svg)](https://starchart.cc/Des-Magmeta/PlanKai)
 
 </div>
