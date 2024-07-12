@@ -91,3 +91,7 @@
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools) 提供各地区标准字形参考；  
 - [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 提供相关字型；  
 - [HackerSam](https://github.com/HACKERSam2011)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti) 协助完善字体。
+
+## Stargazers over time 
+  
+ [![Stargazers over time](https://starchart.cc/Des-Magmeta/PlanKai.svg)](https://starchart.cc/Des-Magmeta/PlanKai)
