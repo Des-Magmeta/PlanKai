@@ -72,4 +72,5 @@ Plan Kai is derived from Klee One, which is licensed under the SIL Open Font Lic
 - Original font developed by [FONTWORKS](http://fontworks.co.jp).
 - [Plangothic Project](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) initiated by  [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project).
 - [Zitools](https://zi.tools) developed by [Bai Yi](https://github.com/yi-bai).
-- Related fonts developed by [lxgw](https://github.com/lxgw),  [ButTaiwan](https://github.com/ButTaiwan), [ItMarki](https://github.com/ItMarki),  [GuiWonder](https://github.com/GuiWonder/MoonStarsKai), and [Steve-Yuu](https://github.com/Steve-Yuu/YshiShuti)
+- Related fonts developed by [lxgw](https://github.com/lxgw),  [ButTaiwan](https://github.com/ButTaiwan), [ItMarki](https://github.com/ItMarki),  [GuiWonder](https://github.com/GuiWonder/MoonStarsKai), and [Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti).  
+- The font is completed with the assistance of [HackerSam](https://github.com/HackerSam) and [Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti).
