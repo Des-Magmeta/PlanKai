@@ -43,6 +43,8 @@ Plan Kai(Chinese: <span lang="zh-cn">
 - [x] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
 - [ ] Chữ Nôm from V0, V1 & V2  
 - [ ] CJK compatibility ideographs (including supplement)  
+> Since version 1.330, the [character addition issue](https://github.com/lxgw/LxgwWenKai/issues/33) of LxgwWenKai has been closed. Therefore, this repository is currently considered to complete the target range of characters included in LxgwWenKai. If new characters are added in the subsequent versions of it, this repository will follow up.
+
 
 ## Adjustments and Descriptions
 
