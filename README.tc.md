@@ -30,7 +30,7 @@
 <div lang="zh-tw">
 計劃楷是基於 FONTWORKS 的開源字型 Klee One，并以各地字形为標準的對中日韓統合表意文字擴充區進行字形補充的項目。
 
-![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-1.jpg)  
+![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-ZHT-Banner.jpg)  
 
 ## Introduction / 項目簡介
 
