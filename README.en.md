@@ -3,7 +3,7 @@
 > 
 > This font isn't used for normal characters. It includes Unified ideograph characters (Extension) only and is just for fallback only.  
 > This repository is currently in the testing stage, so there aren't many characters to support. And some glyphs of characters haven't been modified yet.  
-> You can leave a comment for glyph addition request(s) in [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2). And for glyph adjustment(s) in [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1). **Don’t create a new issue.**
+> You can leave a comment for glyph addition request(s) in [Issue #2](https://github.com/Des-Magmeta/PlanKai/issues/2). And for glyph adjustment(s) in [Issue #1](https://github.com/Des-Magmeta/PlanKai/issues/1). **Don’t submit a new issue.**
 
 <div align="center">
 
@@ -22,10 +22,9 @@
 
 </span>
 
-An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.
-
 [![License](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/blob/main/OFL.txt) 
  [![Latest Version](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
+An open-source font for Unified Ideographic Extension derived from Fontworks' Klee One.  
 
 ![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-EN-Banner.jpg)  
 </div>
