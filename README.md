@@ -25,7 +25,7 @@
 
 计划楷是基于 FONTWORKS 的开源字体 Klee One，并以各地字形为标准的对中日韩统一表意文字扩展区进行自行补充的项目。  
 
-![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-1.jpg)  
+![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-ZHS-Banner.jpg)  
 
 ## Introduction / 项目简介
 
