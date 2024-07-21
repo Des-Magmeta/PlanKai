@@ -27,6 +27,7 @@ An open-source font for Unified Ideographic Extension derived from Fontworks' Kl
 [![License](https://img.shields.io/github/license/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai) 
  [![Latest Version](https://img.shields.io/github/release/Des-Magmeta/PlanKai?style=flat-square)](https://github.com/Des-Magmeta/PlanKai/releases/latest)  
 
+![](https://raw.githubusercontent.com/Des-Magmeta/PlanKai/main/images/PlanKai-EN-Banner.jpg)  
 </div>
 
 ## Introduction
