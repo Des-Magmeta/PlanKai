@@ -36,12 +36,16 @@
 ## Coverage / 收录字符范围（计划）
 - [x] Adobe-Japan1-7 收录字符  
 - [ ] Adobe-CNS1-7 收录字符  
-- [x] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符  
+- [x] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符 
+- [ ] [「彭蠡文楷」/ Pengli Wenkai](https://github.com/lxgw/Pengli) 收录字符
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韩兼容汉字及补充
 > 以上内容中各字表的「收录字符」在此项目中仅选取扩展 A 区（部分）、扩展 B 区至 I 区、基本区补充，不包含基本区汉字，目前扩展 A 区字形未全部填满。  
 >
-> 自 1.330 版本起，「霞鹜文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)关闭，因此本项目目前视作补齐目标范围内「霞鹜文楷」收录字符。若「霞鹜文楷」后续版本新增字符，本项目将相应跟进。
+> 自 1.330 版本起，「霞鹜文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)关闭，而「霞鹜文楷」后续版本仍有部分新增字符位于扩展区，本项目将相应跟进。
+
+> [!Note]
+> 「彭蠡文楷」将于近期推出，根据部分已知信息，该项目包含一部分扩展区汉字，届时「计划楷」将予以收录。
 
 ## Adjustment & Descriptions / 字形调整原则与相关说明
 
@@ -56,7 +60,7 @@
 。通常情况下，对表外字的处理遵循日文旧字体笔形；  
 - 若提交的 J 源字符中部件按照新字体标准，则跟从对应写法；  
 - 为保持风格一致性，对制作的任何字符在此版中的部件采用日本标准笔形；  
-- 为与标准性相兼容，对包含简体字部件（如`饣`、`钅`、`讠`、`贝`、`车`、`长`等）的字符略微调整接近中国大陆新字形的写法，一些简体字部件的传统印刷特征（如下折的`纟`、断笔的`㇜㇙`、直点的`宀亠`等）也将选择性保留。
+- 为力求风格一致性与标准性相平衡，对包含简体字部件（如`饣`、`钅`、`讠`、`贝`、`车`、`长`等）的字符略微调整接近中国大陆新字形的写法，一些简体字部件的传统印刷特征（如下折的`纟`、断笔的`㇜㇙`、直点的`宀亠`等）也将选择性保留。
 
 ### 补充说明
 * 在所有版本中，对字喃等提交源仅包含 V 源的字，以宽松标准进行调整、增补，不完全遵循 V 源标准。 
@@ -90,8 +94,8 @@
 - [Fitzgerald](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project) 提供扩展区汉字假想 G 源字形参考（见[遍黑体 Github 项目](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)）；  
 - [白易](https://github.com/yi-bai)开发的网站[字统网](https://zi.tools) 提供各地区标准字形参考；  
 - [lxgw](https://github.com/lxgw)、[ButTaiwan](https://github.com/ButTaiwan)、[ItMarki](https://github.com/ItMarki)、[GuiWonder](https://github.com/GuiWonder/MoonStarsKai)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti) 提供相关字型；  
-- [HackerSam](https://github.com/HACKERSam2011)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti) 协助完善字体。
+- [HackerSam](https://github.com/HACKERSam2011)、[Steve-Yuu](https://github.com/Steve-Yuu/YshiPen-Shuti)、[GeorgomeFont](https://github.com/GeorgomeFont) 协助完善字体。
 
-## Stargazers over time 
+## 本项目星数趋势图
   
  [![Stargazers over time](https://starchart.cc/Des-Magmeta/PlanKai.svg)](https://starchart.cc/Des-Magmeta/PlanKai)
