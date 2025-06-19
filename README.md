@@ -36,15 +36,15 @@
 ## Coverage / 收录字符范围（计划）
 - [x] Adobe-Japan1-7 收录字符<sup>①</sup>  
 - [ ] Adobe-CNS1-7 收录字符  
-- [x] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符 
-- [ ] [「彭蠡文楷」/ Pengli Wenkai](https://github.com/lxgw/Pengli) 收录字符
+- [x] [「霞鹜文楷」/ LXGW WenKai](https://github.com/lxgw/LxgwWenKai) 收录字符<sup>②</sup> 
+- [ ] [「彭蠡文楷」/ Pengli Wenkai](https://github.com/lxgw/Pengli) 收录字符<sup>③</sup>
 - [ ] V0 ~ V2 字喃（Chữ Nôm） 
 - [ ] 中日韩兼容汉字及补充
 
 > [!Note] 
 > ①以上内容中各字表的「收录字符」在此项目中仅选取扩展 A 区（部分）、扩展 B 区至 I 区、基本区补充，不包含基本区汉字，目前扩展 A 区字形未全部填满。  
 >
-> ②自 1.330 版本起，「霞鹜文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)关闭，而「霞鹜文楷」后续版本仍有部分新增字符位于扩展区，本项目将相应跟进。
+> ②自 1.330 版本起，「霞鹜文楷」[加字通道](https://github.com/lxgw/LxgwWenKai/issues/33)关闭，而「霞鹜文楷」后续版本仍有部分新增字符位于扩展区，本项目如有更新，也将相应跟进。
 >
 > ③「彭蠡文楷」将于近期推出，根据部分已知信息，该项目包含一部分扩展区汉字，届时「计划楷」将予以收录。
 
