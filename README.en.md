@@ -31,18 +31,20 @@ An open-source font for Unified Ideographic Extension derived from Fontworks' Kl
 
 ## Introduction
 
-In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japanese fonts](https://github.com/fontworks-fonts) on GitHub, with [Klee One](https://github.com/fontworks-fonts/Klee) supporting the most characters. It shares some features with Fangsong and Kaiti, namely elegant composition and high readability. Many font designers also made fonts derived from Klee One, such as [LxgwWenkai](https://github.com/lxgw/LxgwWenkai), [Iansui](https://github.com/ButTaiwan/iansui), [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai), and so on. With the efforts of font designers, a series of fonts derived from Klee One support many enough characters, especially some characters that are displayed as “tofu”.  
-However, there are also a large number of CJK Unified ideographic extensions that can't be displayed directly. These characters either falls back to the Songti, or is displayed as a font that doesn't conform to local standards when they're displayed, and more are displayed as “tofu”.  
+In December 2020, Japanese type foundry FONTWORKS released [7 Open-source Japanese fonts](https://github.com/fontworks-fonts) on GitHub, with [Klee One](https://github.com/fontworks-fonts/Klee) supporting the most characters. It shares some features with Fangsong and Kaiti, namely elegant composition and high readability. Many font designers also made fonts derived from Klee One, such as [LxgwWenkai](https://github.com/lxgw/LxgwWenkai), [Iansui](https://github.com/ButTaiwan/iansui), [JyunsaiKaai](https://github.com/ItMarki/jyunsaikaai), etc. With the efforts of font designers, a series of fonts derived from Klee One support many enough characters, especially some characters that are usually displayed as “tofu”.  
+However, there are also a large number of CJK Unified ideographic extensions that can't be displayed directly. These characters either falls back to the SimSun-ExtB (a kind of serif font), or is displayed as a font that doesn't conform to local standards when they're displayed, and more are displayed as “tofu”.  
 Plan Kai(Chinese: <span lang="zh-cn">
-计划楷</span> / <span lang="zh-tw">計劃楷</span>; Japanese: <span lang="ja-jp">プラン楷書</span>) is a repository based on Klee One and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. This repository was initiated around December 2022. The eventual goal is to complete all the Chinese characters included in Unicode as much as possible, and produce a part of the regular script without the original style of Kaiti(<span lang="zh-cn">楷体</span> / <span lang="zh-tw">楷體</span>).  
+计划楷</span> / <span lang="zh-tw">計劃楷</span>; Japanese: <span lang="ja-jp">プラン楷書</span>) is a repository based on Klee One and takes the Chinese Mainland glyphs as the standard to supplement the CJK Unified ideographic extension. This repository was initiated around December 2022. The eventual goal is to complete all the Chinese characters included in Unicode as much as possible, and produce a part of the regular script without the original style of Kaiti(Chinese: <span lang="zh-cn">楷体</span> / <span lang="zh-tw">楷體</span>).  
 
 ## Coverage (Planning) 
 
 - [x] Adobe-Japan1-7  
 - [ ] Adobe-CNS1-7  
 - [x] Characters from [LxgwWenkai](https://github.com/lxgw/LxgwWenkai)  
+- [ ] Characters from [Pengli](https://github.com/lxgw/Pengli) 
 - [ ] Chữ Nôm from V0, V1 & V2  
 - [ ] CJK compatibility ideographs (including supplement)  
+
 > Since version 1.330, the [character addition issue](https://github.com/lxgw/LxgwWenKai/issues/33) of LxgwWenKai has been closed. Therefore, this repository is currently considered to complete the target range of characters included in LxgwWenKai. If new characters are added in the subsequent versions of it, this repository will follow up.
 
 
